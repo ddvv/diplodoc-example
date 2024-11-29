@@ -1,3 +1,4 @@
+# Title
 # Documentation Template created by Diplodoc
 
 Features:
